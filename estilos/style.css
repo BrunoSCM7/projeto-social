@@ -43,6 +43,8 @@ main {
 
 #redes-sociais {
   text-align: right;
+  padding-top: 200px; 
+  padding-right: 30px;
 }
 
 #redes-sociais img {
@@ -59,3 +61,4 @@ main {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.618);
   transition: transform 0.3s, border 0.5s;
 }
+
